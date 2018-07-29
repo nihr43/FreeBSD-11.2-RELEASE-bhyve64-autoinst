@@ -1,7 +1,7 @@
 freebsd-autoinst
 ======
 
-Entirely self-proficient.  Clone to a fresh freebsd machine, customize the installerconfig, and run ./patch_iso.sh.
+Entirely self-proficient.  Clone to a fresh freebsd machine, customize the installerconfig, and run ./patch.sh.
 
 Builds FreeBSD-11.2-RELEASE-bhyve64-autoinst.iso with the following proterties
 
